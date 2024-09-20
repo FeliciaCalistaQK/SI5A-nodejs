@@ -1,0 +1,14 @@
+{
+  "name": "si5a-nodejs",
+  "version": "1.0.0",
+  "description": "belajar membuat projek nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Felicia Calista Q.K",
+  "license": "ISC"
+}
