@@ -19,7 +19,7 @@ const server = http.createServer((req,res)=>{
     }
     res.end(JSON.stringify({
         'massage': message,
-        'status':'success',
+        'data': data,
         'status':'success'
     }));
 });
